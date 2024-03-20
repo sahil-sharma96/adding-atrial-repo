@@ -1,2 +1,4 @@
-# adding-atrial-repo
-This is my git repository
+# Adding-a-trial-repo
+This is my first git repository.
+<br>
+Author-Sahil Sharma
